@@ -1,6 +1,5 @@
 # Command Line Interface
-
-COMP0010 Shell should be executed in a Docker container. To build a container image (let's call it `shell`), run
+ Shell should be executed in a Docker container. To build a container image (let's call it `shell`), run
 
     docker build -t shell .
 
